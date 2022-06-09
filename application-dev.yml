@@ -1,5 +1,6 @@
 mysql:
-  user: ferrari
+  user: ferrari-first
+  
 
 person:
   name: lec
