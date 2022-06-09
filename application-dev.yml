@@ -1,1 +1,5 @@
-test
+mysql:
+  user: ferrari
+
+person:
+  name: lec
